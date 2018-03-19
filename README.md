@@ -1,4 +1,4 @@
-# FriendlyChat
+# TEXTER
 
 This repository contains code for the Texter chat application project.
 
